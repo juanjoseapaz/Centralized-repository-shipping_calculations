@@ -1,5 +1,4 @@
 # Here is a new update by juanjoseapaz
-# Here is another update by juanjoseapaz
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
